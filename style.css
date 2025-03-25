@@ -8,7 +8,7 @@
 /* Estilo do corpo */
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f4f4f9;
+    background-color: #0e0eda;
     color: #333;
     line-height: 1.6;
     padding: 20px;
@@ -17,21 +17,21 @@ body {
 /* Título principal */
 h1 {
     font-size: 2.5em;
-    color: #333;
+    color: #fc0101;
     margin-bottom: 0.5em;
 }
 
 /* Subtítulo */
 h2 {
     font-size: 2em;
-    color: #555;
+    color: #f40707;
     margin-bottom: 0.8em;
 }
 
 /* Parágrafos */
 p {
     font-size: 1em;
-    color: #666;
+    color: #f60a0a;
     margin-bottom: 1.2em;
 }
 
